@@ -15,7 +15,7 @@ Sample Output 1
 0.20
 109.80
 
-
+code:
 
 p=float(input())
 n=float(input())
